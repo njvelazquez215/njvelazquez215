@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas Velazquez</h1>
-<h3 align="center">I am an advanced student of computer engineering and passionate about computer science</h3>
+<h3 align="center">I am a computer engineer and passionate about computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njvelazquez215&label=Profile%20views&color=0e75b6&style=flat" alt="njvelazquez215" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njvelazquez215" alt="njvelazquez215" /></a> </p>
 
-- 🔭 I’m currently working in **Facultad de Ingenieria del Ejercito**
+- 🔭 I’m currently working in **General Directorate of Research and Development of the Argentine Army**
 
 - 👯 I’m looking to collaborate on **any innovative project**
 
